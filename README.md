@@ -31,6 +31,7 @@ You can install them using pip:
 
 ```bash
 pip install pandas plotly streamlit
+```
 
 ## Running the Dashboard
 
@@ -45,6 +46,8 @@ This is a Python dashboard project that analyzes and visualizes data from variou
     style.css: An external CSS file for styling.
 
 ## Author
+
+## Licence
 
 ## Acknowledgements
 
