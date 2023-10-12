@@ -47,7 +47,16 @@ This is a Python dashboard project that analyzes and visualizes data from variou
 
 ## Author
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
+
 ## Licence
+
+Contributions are welcome! If you have ideas for improvements, bug fixes or new features, feel free to open a new issue or submit a pull request.
+License
+
+This project is licensed under the MIT License. You are free to use, modify and distribute the code as needed.
+
+I hope this helps describe your IT Equipment Management project for GitHub. Good luck with your project!
 
 ## Acknowledgements
 
