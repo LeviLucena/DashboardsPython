@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python project that creates an interactive dashboard for analyzing and visualizing supermarket sales data. The dashboard is built using Streamlit and allows users to explore the sales data in various ways.
+This is a Python dashboard project that analyzes and visualizes data from various data sources. It uses the Streamlit library to create an interactive interface where users can filter and explore data in multiple ways.
 
 ![Screenshot_1](https://github.com/LeviLucena/DashboardsPython/assets/34045910/def15e26-6242-461f-9ddf-c9fb3ab31cd6) 
 ![Screenshot_2](https://github.com/LeviLucena/DashboardsPython/assets/34045910/20468119-16b2-46a2-942f-9738fe13be17)
