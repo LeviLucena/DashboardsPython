@@ -37,6 +37,10 @@ pip install pandas plotly streamlit
 
 To run the dashboard, navigate to the project directory and run the following command:
 
+```bash
+streamlit run dashboards.py
+```
+
 ## Features
 This is a Python dashboard project that analyzes and visualizes data from various data sources. It uses the Streamlit library to create an interactive interface where users can filter and explore data in multiple ways.
 
@@ -57,8 +61,3 @@ License
 This project is licensed under the MIT License. You are free to use, modify and distribute the code as needed.
 
 I hope this helps describe your IT Equipment Management project for GitHub. Good luck with your project!
-
-## Acknowledgements
-
-Acknowledge any individuals or resources you used in your project.
-
