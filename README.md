@@ -55,9 +55,6 @@ This is a Python dashboard project that analyzes and visualizes data from variou
 
 ## Licence
 
-Contributions are welcome! If you have ideas for improvements, bug fixes or new features, feel free to open a new issue or submit a pull request.
-License
-
-This project is licensed under the MIT License. You are free to use, modify and distribute the code as needed.
+Contributions are welcome! If you have ideas for improvements, bug fixes or new features, feel free to open a new issue or submit a pull request. This project is licensed under the MIT License. You are free to use, modify and distribute the code as needed.
 
 I hope this helps describe your IT Equipment Management project for GitHub. Good luck with your project!
