@@ -15,7 +15,6 @@ This is a Python dashboard project that analyzes and visualizes data from variou
 - [Project Structure](#project-structure)
 - [Author](#author)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Requirements
 
@@ -42,6 +41,7 @@ streamlit run dashboards.py
 ```
 
 ## Features
+
 This is a Python dashboard project that analyzes and visualizes data from various data sources. It uses the Streamlit library to create an interactive interface where users can filter and explore data in multiple ways.
 
 ## Project Structure
